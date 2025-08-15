@@ -11,7 +11,7 @@ return {
       ensure_installed = {
         -- install language servers
         "lua-language-server",
-        "ruff-lsp",
+        "pyright",
         "helm-ls",
         "rust-analyzer",
         "yaml-language-server",
